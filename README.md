@@ -30,7 +30,7 @@ Analyze rental rates to identify trends and the profitability of various pricing
 
 ## Project Result
 
-[Click here to get full code](https://github.com/Abhilasha1103/MAVENMOVIES_RENTAL_BUSINESS_CODE/edit/main/README.md)
+[Click here to get full code](https://github.com/Abhilasha1103/MAVENMOVIES_RENTAL_BUSINESS_CODE/blob/main/MAVENMOVIES_RENTAL_BUSINESS_CODE.sql)
 
 
 ## Query Task
