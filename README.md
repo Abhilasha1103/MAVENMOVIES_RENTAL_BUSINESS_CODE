@@ -40,6 +40,7 @@ Analyze rental rates to identify trends and the profitability of various pricing
 
 #### 1. "How can we extract the first name, last name, and email address of all customers to prepare a comprehensive contact list for the marketing team?"
 
+![image](https://github.com/user-attachments/assets/4211d290-1aa4-4202-a6ae-dfd5ada70945)
 
 
 #### 2. "What is the total number of movies in the inventory that are available for rent at the lowest rental rate of $0.99?"
